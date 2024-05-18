@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import pickle
 import os
-
+import joblib
 
 # 入力フォームを作成
 st.title('3-year Survival rate Prediction')
