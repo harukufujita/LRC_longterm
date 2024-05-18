@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
+import os
+
 
 # 入力フォームを作成
 st.title('3-year Survival rate Prediction')
